@@ -1,6 +1,6 @@
 
 ### Frontend
-- React [Vs](https://www.javatpoint.com/reactjs-vs-angularjs) Angular?
+- [React](https://react.dev/reference/rules) [Vs](https://www.javatpoint.com/reactjs-vs-angularjs) [Angular](https://angular.dev/overview)?
 
 ### Middleware
 - [nginx](https://nginx.org/en/)
